@@ -16,7 +16,7 @@ module.exports = {
     ],
     'rules': {
         'indent': [
-            'tab'
+            'space'
         ],
         'linebreak-style': [
             'windows'
